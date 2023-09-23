@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/v5',
   siteMetadata: {
     title: 'Brittany Chiang',
     description:
